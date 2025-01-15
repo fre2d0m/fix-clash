@@ -4,6 +4,8 @@
 
 This script is designed for iOS devices using the **Scriptable** app to automate node switching in **OpenClash**. It periodically tests the currently active node's delay and automatically switches to the best available node from a predefined list if the current node's connection fails or performs poorly.
 
+![Scriptable Demo](demo.png)
+
 **Key Features:**
 
 *   **Automatic Node Testing:** Regularly tests the delay of the currently selected node in a specified OpenClash proxy group.
